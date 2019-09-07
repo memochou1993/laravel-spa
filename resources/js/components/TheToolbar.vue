@@ -60,13 +60,6 @@ export default {
             name: 'home',
           },
         },
-        {
-          title: this.$t('links.about'),
-          icon: 'mdi-information-outline',
-          to: {
-            name: 'about',
-          },
-        },
       ];
     },
   },
