@@ -47,7 +47,7 @@ Install the npm dependencies.
 npm install
 ```
 
-## Usage
+## Compiling Assets
 
 Watch assets for changes.
 
